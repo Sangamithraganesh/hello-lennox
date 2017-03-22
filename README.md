@@ -21,7 +21,7 @@ This is a repository to practice using Git and GitHub.
   * Vigneshwaran
   * Venkatesh
   * Rajesh
-  * R. Ganesh kumar
+  * R. Ganesh kumar  -->Edit
   * M. Ganesh kumar  
   * Mani
   * Infanty Rajan
